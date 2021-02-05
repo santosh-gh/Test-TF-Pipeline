@@ -10,7 +10,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  subscription: 3592499b-ef49-4850-a493-d4ce86890b75
+  subscription: Pay-As-You-Go (3592499b-ef49-4850-a493-d4ce86890b75)
   resourceGroup: resourcegroup-tfstate
   storageAccount: terraformtfstateskipsan1
   container: tfstate
